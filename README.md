@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="new100.jpg" alt="Maruf Hasan Shuvo"height="270" width="600"/>
+  <img src="new200.png" alt="Maruf Hasan Shuvo" height="250" width="600"/>
 </div>
 <h1 align="center">Hi 👋, I'm MARUF HASAN SHUVO</h1>
 <h3 align="center">Deep C++ Learner & CSE Student at Barishal University</h3>
