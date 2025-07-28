@@ -17,8 +17,7 @@
 
 - 🤝 I’m looking for help with **Creating engaging tutorial videos on C++ in Bangla**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SHUVO-official/Cpp.git](https://github.com/SHUVO-official/Cpp.git](https://github.com/SHUVO-official/Cpp.git](https://github.com/SHUVO-official/Cpp.git)
-
+- 👨‍💻 All of my projects are available at [https://github.com/SHUVO-official/Cpp.git]
 - 💬 Ask me about **C++ logic building, GitHub repository setup, syntax debugging**
 
 - 📫 How to reach me **the.shuvo.dev@gmail.com**
