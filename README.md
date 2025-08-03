@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm MARUF HASAN SHUVO</h1>
-<h3 align="center">Deep C++ Learner & CSE Student at Barishal University</h3>
+<h3 align="center">CSE dept,<br>University of Barishal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmmmmmmmmmmmm&label=Profile%20views&color=0e75b6&style=flat" alt="mmmmmmmmmmmmm" /> </p>
 
